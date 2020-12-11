@@ -1,3 +1,3 @@
 # dotbot-encrypt
 
-Dotbot plugin to provide encryption of files
+Plugin for [dotbot](https://github.com/anishathalye/dotbot) to provide file encryption.
